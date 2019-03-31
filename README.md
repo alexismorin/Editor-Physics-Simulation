@@ -1,9 +1,9 @@
 # Editor-Physics-Simulation
-## Simulate Physics in the Unity Scene View.
+## Simulate Physics in the Unity Scene view.
 
 ![header](images/gif.gif)
 
-This minimalist Unity package allows you to simulate physics in Scene View to ease the pain of manually laying out bramble, rubbish or boulders. No script or prefab finicking is required, just start and stop the simulation as you please. If you're more familiar with Unreal Engine, this package is roughly what the the *Simulate* button does.
+This minimalist Unity package allows you to simulate physics in Scene view to ease the pain of manually laying out bramble, rubbish or boulders. No script or prefab finicking is required, just start and stop the simulation as you please. If you're more familiar with Unreal Engine, this package is roughly what the the *Simulate* button does.
 
 ### Usage
 Inside the *Tools* menu item dropdown, you'll now find two new buttons: *Simulate Physics in Editor - Start* and *Simulate Physics in Editor - Stop* - these are pretty self explanatory, just make sure to stop the simulation when you're done!

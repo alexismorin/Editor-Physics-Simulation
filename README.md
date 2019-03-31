@@ -1,4 +1,4 @@
-# Editor-Physics-Simulation
+# Editor Physics Simulation
 ## Simulate Physics in the Unity Scene view.
 
 ![header](images/gif.gif)
